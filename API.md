@@ -61,7 +61,7 @@ await editor(totalContent);
 
 ### Global Helpers
 
-All scripts are standard node.js scripts with added helpers from the SDK. Many of the most common helpers are provided in the global scope to save you from having to import them. For example, the follow script requires no imports:
+All scripts are standard node.js scripts with added helpers from the SDK. Many of the most common helpers are provided in the global scope to save you from having to import them. For example, the following script requires no imports:
 
 ```ts
 const url =
